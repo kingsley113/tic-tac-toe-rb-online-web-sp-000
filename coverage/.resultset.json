@@ -3,17 +3,29 @@
     "coverage": {
       "/home/kingsley113/tic-tac-toe-rb-online-web-sp-000/lib/tic_tac_toe.rb": [
         1,
+<<<<<<< HEAD
         25,
         25,
         25,
         25,
         25,
+=======
+        24,
+        24,
+        24,
+        24,
+        24,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         null,
         null,
         1,
         12,
+<<<<<<< HEAD
         18,
+=======
+        17,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         null,
         12,
@@ -26,6 +38,7 @@
         null,
         1,
         null,
+<<<<<<< HEAD
         21,
         null,
         21,
@@ -33,11 +46,23 @@
         21,
         null,
         21,
+=======
+        20,
+        null,
+        20,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         20,
         null,
         20,
         null,
+<<<<<<< HEAD
+=======
+        19,
+        null,
+        19,
+        null,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         1,
         1,
@@ -47,18 +72,27 @@
         null,
         null,
         1,
+<<<<<<< HEAD
         24,
-        null,
-        null,
-        null,
-        null,
-        1,
+=======
         23,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         null,
         null,
         null,
         1,
+<<<<<<< HEAD
+        23,
+=======
+        22,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
+        null,
+        null,
+        null,
+        null,
+        1,
+<<<<<<< HEAD
         43,
         null,
         43,
@@ -67,13 +101,28 @@
         null,
         null,
         43,
+=======
+        41,
+        null,
+        41,
+        369,
+        57,
+        null,
+        null,
+        41,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         null,
         null,
         null,
         1,
+<<<<<<< HEAD
         24,
         21,
+=======
+        23,
+        20,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         3,
         null,
@@ -82,13 +131,21 @@
         null,
         null,
         1,
+<<<<<<< HEAD
         42,
+=======
+        40,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         null,
         null,
         null,
         1,
+<<<<<<< HEAD
         26,
+=======
+        25,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         null,
         null,
@@ -107,10 +164,17 @@
         null,
         null,
         1,
+<<<<<<< HEAD
         30,
         18,
         null,
         12,
+=======
+        29,
+        18,
+        null,
+        11,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         null,
         null,
@@ -118,6 +182,7 @@
         null,
         1,
         null,
+<<<<<<< HEAD
         57,
         null,
         57,
@@ -135,6 +200,25 @@
         28,
         null,
         317,
+=======
+        86,
+        null,
+        86,
+        null,
+        574,
+        null,
+        574,
+        949,
+        null,
+        574,
+        699,
+        null,
+        null,
+        574,
+        31,
+        null,
+        543,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         null,
         null,
@@ -142,6 +226,7 @@
         null,
         null,
         1,
+<<<<<<< HEAD
         21,
         5,
         4,
@@ -153,12 +238,26 @@
         null,
         16,
         null,
+=======
+        52,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         null,
         null,
         null,
         1,
+<<<<<<< HEAD
         46,
+=======
+        20,
+        4,
+        16,
+        13,
+        3,
+        3,
+        0,
+        null,
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
         null,
         null,
         null,
@@ -172,6 +271,10 @@
         null
       ]
     },
+<<<<<<< HEAD
     "timestamp": 1593650830
+=======
+    "timestamp": 1593648497
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
   }
 }

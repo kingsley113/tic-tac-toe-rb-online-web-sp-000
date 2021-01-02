@@ -136,6 +136,7 @@ def won?(array)
 end
 
 
+<<<<<<< HEAD
 # determine if there is a draw
 def draw?(array)
   if full?(array)
@@ -152,12 +153,29 @@ def draw?(array)
 end
 
 
+=======
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
 # determine if the board is full
 def full?(array)
   !array.include?(" ")
 end
 
 
+<<<<<<< HEAD
+=======
+# determine if there is a draw
+def draw?(array)
+  if !won?(array) && full?(array)
+    true
+  elsif !full?(array) && !won?(array)
+    false
+  else won?(array)
+    false
+    end
+end
+
+
+>>>>>>> 08d23685d44f4bd8c3cdb85aa0b6cead015565f4
 # determine who is the winner
 def winner(array)
   if won?(array)
